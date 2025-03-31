@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I’m currently searching for a job as Java developer.
+How to reach me: @avineberger (telegram), or by email: alukard981@gmail.com / av.vinogradow@yandex.ru
+
+About me:
+Studied on Yandex.Practicum (Testing engineer) and graduate in 2021.
+Studied on Hexlet (Java developer) and graduate in 2025.
+
 <!--
 **AlexVin11/AlexVin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
