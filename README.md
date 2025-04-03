@@ -12,6 +12,7 @@ Studied on Yandex.Practicum (Testing engineer) and graduate in 2021.
 
 Studied on Hexlet (Java developer) and graduate in 2025.
 
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,docker,figma,github,gradle,idea,java,linux,postgres,postman,spring)](https://skillicons.dev)
 <!--
 **AlexVin11/AlexVin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
