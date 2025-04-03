@@ -4,6 +4,7 @@ I’m currently searching for a job as Java developer.
 How to reach me: @avineberger (telegram), or by email: alukard981@gmail.com / av.vinogradow@yandex.ru
 
 About me:
+Worked as QA engineer in Devhouse (2021 - 2022) and Sberbank (2023-2023).
 Studied on Yandex.Practicum (Testing engineer) and graduate in 2021.
 Studied on Hexlet (Java developer) and graduate in 2025.
 
