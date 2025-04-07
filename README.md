@@ -20,7 +20,7 @@ I am eager to develop in the field of software development and ready to apply my
 - Instruments: JUnit, Git
 
 # Projects
-- [Braing games](https://github.com/AlexVin11/java-project-61-brain-games)
+- [Brain games](https://github.com/AlexVin11/java-project-61-brain-games)
 - [Diff calculator](https://github.com/AlexVin11/java-project-71-diff-calculator)
 - [Data validator](https://github.com/AlexVin11/java-project-78-data-validator)
 - [Seo site analyzer](https://github.com/AlexVin11/java-project-72-seo-site-analyzer)
